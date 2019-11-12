@@ -1,6 +1,24 @@
 {
   "embeddings": [
     {
+      "tensorName": "ICD-10-AM-10d",
+      "tensorShape": [
+        6535,
+        10
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/10d-vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/meta_desc.tsv"
+    },
+    {
+      "tensorName": "ICD-10-AM-20d",
+      "tensorShape": [
+        6535,
+        20
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/20d-vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/meta_desc.tsv"
+    },
+    {
       "tensorName": "ICD-10-AM-50d",
       "tensorShape": [
         6535,
