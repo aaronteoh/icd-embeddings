@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ICD-10-AM-10d",
+      "tensorShape": [
+        6535,
+        10
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }
+  ]
+}
