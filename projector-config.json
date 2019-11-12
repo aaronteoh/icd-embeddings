@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "ICD-10-AM-10d",
+      "tensorName": "ICD-10-AM-50d",
       "tensorShape": [
         6535,
-        10
+        50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/50d-vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/aaronteoh/icd-embeddings/master/meta_desc.tsv"
     }
   ]
 }
